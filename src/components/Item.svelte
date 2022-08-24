@@ -19,13 +19,13 @@
 	.item:focus-within {
 		background: rgba(255, 255, 255, 0.8);
 	}
-	/* 
+
 	.text-input {
 		flex-grow: 1;
 		background: none;
 		border: none;
 		font-size: 1em;
-	} */
+	}
 
 	.completed-checkbox {
 		margin-left: 15px;
